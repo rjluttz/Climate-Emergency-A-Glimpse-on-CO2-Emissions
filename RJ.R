@@ -1,5 +1,4 @@
 #libraries required for the analysis
-library(shiny)
 library(tidyverse)
 library(plotly)
 library(mapproj)
